@@ -3,7 +3,7 @@
 
 After making changes:
 * git add Code.ipynb
-* git commit -m "code updated"
+* git commit -m 'code updated'
 * git push -u origin master
 * gehadibany
 * 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
