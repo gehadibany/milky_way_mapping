@@ -1,3 +1,5 @@
+From Desktop to Web
+
 * cd jupyterenv && cd bin && source activate && cd && cd sxps288
 * jupyter notebook Code.ipynb
 
@@ -7,3 +9,13 @@ After making changes:
 * git push -u origin master
 * gehadibany
 * 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
+
+From Web to Desktop after committing online
+
+* git pull -v origin master
+* gehadibany
+* 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
+
+
+
+
