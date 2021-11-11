@@ -1,0 +1,4 @@
+- ‘RA/DE (J2000)’ is the right ascension and declination 
+- Galactic Longitude/Latitude’ in degrees, minutes and seconds for each coordinate. Notice that Stellarium lists Galactic longitudes greater than 180 as the equivalent negative angle.
+- ‘Az/Alt’ (azimuth and altitude) which are also expressed in degrees, minutes and seconds. 
+- The Earth turns on its axis once every 24 hours, so in two hours it rotates through the same angle (30 degrees) as the Earth’s position in its orbit changes in one month
